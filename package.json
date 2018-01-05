@@ -1,0 +1,14 @@
+{
+  "name": "JasonUnderhillCV",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "markdown-pdf": "~2.2.0",
+    "coffee-script": "~1.7.1",
+    "gulp": "~3.5.2",
+    "gulp-rename": "1.2.0",
+    "gulp-markdown-pdf": "~0.2.0",
+    "gulp-coffee": "~1.4.1"
+  }
+}

@@ -1,0 +1,24 @@
+body {
+    font-family: "Helvetica", sans-serif;
+    font-size: 0.82em;
+    text-align: left;
+    padding: 45px;
+}
+
+
+h1, h2 {
+    text-align: left;
+}
+
+h2{
+  padding-top: 20px;
+  text-decoration: underline;
+}
+
+h3{
+  padding-top: 8px;
+}
+
+h3, a {
+    color: #2c4a68;
+}
